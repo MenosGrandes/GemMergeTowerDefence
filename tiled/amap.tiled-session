@@ -1,0 +1,66 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "a.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "a.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "expandedObjectLayers": [
+                11
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 276,
+                "y": 381
+            }
+        },
+        "map.tmx#map": {
+            "scaleInDock": 1
+        },
+        "map2.tmx": {
+            "expandedObjectLayers": [
+                11
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -85,
+                "y": 231
+            }
+        },
+        "map2.tmx#map": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/home/mg/Desktop/flow_field/tiled",
+    "map.height": 17,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 20,
+    "openFiles": [
+        "map2.tmx",
+        "a.tsx",
+        "map.tmx"
+    ],
+    "project": "amap.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map2.tmx",
+        "map.tmx",
+        "a.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx"
+}

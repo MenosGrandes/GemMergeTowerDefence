@@ -1,0 +1,3872 @@
+{
+    "Version": "1.10",
+    "TiledVersion": "1.11.2",
+    "Class": "",
+    "Orientation": "orthogonal",
+    "RenderOrder": "right-down",
+    "Width": 20,
+    "Height": 17,
+    "TileWidth": 32,
+    "TileHeight": 32,
+    "HexSideLength": 0,
+    "StaggerAxis": "",
+    "StaggerIndex": "",
+    "BackgroundColor": null,
+    "NextObjectID": 8,
+    "Properties": null,
+    "Tilesets": [
+        {
+            "Version": "",
+            "TiledVersion": "",
+            "FirstGID": 1,
+            "Source": "",
+            "SourceLoaded": false,
+            "Name": "map",
+            "Class": "",
+            "TileWidth": 32,
+            "TileHeight": 32,
+            "Spacing": 0,
+            "Margin": 0,
+            "TileCount": 340,
+            "Columns": 20,
+            "TileOffset": null,
+            "Properties": null,
+            "Image": {
+                "Format": "",
+                "Source": "map.png",
+                "Trans": null,
+                "Width": 640,
+                "Height": 544,
+                "Data": null
+            },
+            "TerrainTypes": null,
+            "Tiles": null,
+            "WangSets": null
+        },
+        {
+            "Version": "1.10",
+            "TiledVersion": "1.11.2",
+            "FirstGID": 341,
+            "Source": "a.tsx",
+            "SourceLoaded": true,
+            "Name": "a",
+            "Class": "",
+            "TileWidth": 32,
+            "TileHeight": 32,
+            "Spacing": 0,
+            "Margin": 0,
+            "TileCount": 51,
+            "Columns": 17,
+            "TileOffset": null,
+            "Properties": null,
+            "Image": {
+                "Format": "",
+                "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                "Trans": null,
+                "Width": 544,
+                "Height": 96,
+                "Data": null
+            },
+            "TerrainTypes": null,
+            "Tiles": null,
+            "WangSets": null
+        }
+    ],
+    "Layers": [
+        {
+            "ID": 6,
+            "Name": "path",
+            "Class": "",
+            "Opacity": 1,
+            "Visible": true,
+            "OffsetX": 0,
+            "OffsetY": 0,
+            "ParallaxX": 0,
+            "ParallaxY": 0,
+            "Properties": [
+                {
+                    "Name": "placable",
+                    "Type": "bool",
+                    "Value": "true"
+                }
+            ],
+            "Tiles": [
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 11,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 50,
+                    "Tileset": {
+                        "Version": "1.10",
+                        "TiledVersion": "1.11.2",
+                        "FirstGID": 341,
+                        "Source": "a.tsx",
+                        "SourceLoaded": true,
+                        "Name": "a",
+                        "Class": "",
+                        "TileWidth": 32,
+                        "TileHeight": 32,
+                        "Spacing": 0,
+                        "Margin": 0,
+                        "TileCount": 51,
+                        "Columns": 17,
+                        "TileOffset": null,
+                        "Properties": null,
+                        "Image": {
+                            "Format": "",
+                            "Source": "../../../Downloads/Diceforce_assets/Tiles/Tiles.png",
+                            "Trans": null,
+                            "Width": 544,
+                            "Height": 96,
+                            "Data": null
+                        },
+                        "TerrainTypes": null,
+                        "Tiles": null,
+                        "WangSets": null
+                    },
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": false
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                },
+                {
+                    "ID": 0,
+                    "Tileset": null,
+                    "HorizontalFlip": false,
+                    "VerticalFlip": false,
+                    "DiagonalFlip": false,
+                    "Nil": true
+                }
+            ]
+        }
+    ],
+    "ObjectGroups": null,
+    "ImageLayers": [
+        {
+            "ID": 5,
+            "Name": "background",
+            "Class": "",
+            "OffsetX": 0,
+            "OffsetY": 0,
+            "X": 0,
+            "Y": 0,
+            "Opacity": 1,
+            "Visible": true,
+            "Properties": null,
+            "Image": {
+                "Format": "",
+                "Source": "map.png",
+                "Trans": null,
+                "Width": 640,
+                "Height": 544,
+                "Data": null
+            },
+            "ParallaxX": 0,
+            "ParallaxY": 0,
+            "RepeatX": false,
+            "RepeatY": false
+        }
+    ],
+    "Groups": null
+}
+path

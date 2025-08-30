@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="20" height="17" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="15">
+ <tileset firstgid="1" name="map" tilewidth="32" tileheight="32" tilecount="340" columns="20">
+  <image source="map.png" width="640" height="544"/>
+ </tileset>
+ <tileset firstgid="341" source="a.tsx"/>
+ <imagelayer id="5" name="background" locked="1">
+  <image source="map.png" width="640" height="544"/>
+ </imagelayer>
+ <layer id="6" name="path" width="20" height="17">
+  <properties>
+   <property name="placable" type="bool" value="true"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,391,391,391,391,391,0,0,0,0,0,391,0,0,
+0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,391,0,0,391,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,391,391,391,391,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,391,391,391,391,391,391,391,391,391,391,391,391,391,391,391,391,391,391,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,0,0,391,0,0,0,0,0,0,391,0,0,0,0,0,391,0,0,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,391,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="11" name="ol">
+  <object id="8" name="sa" type="starting_point" x="327" y="521.75" width="16" height="16.75">
+   <properties>
+    <property name="startingPoint" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="12" name="sa" type="starting_point" x="615.333" y="265.167" width="17" height="13.5">
+   <properties>
+    <property name="startingPoint" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="13" name="sa" type="starting_point" x="23" y="273" width="1" height="1">
+   <properties>
+    <property name="startingPoint" type="bool" value="true"/>
+   </properties>
+  </object>
+  <object id="14" name="orb" type="orb" x="399" y="111" width="1" height="1">
+   <properties>
+    <property name="startingPoint" type="bool" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
